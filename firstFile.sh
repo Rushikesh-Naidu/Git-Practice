@@ -10,3 +10,7 @@ echo $(( a+b ));
 
 echo "Subtract 2 numbers";
 echo $(( a-b ));
+
+echo "Multiplication of 2 numbers";
+echo $(( a*b));
+
