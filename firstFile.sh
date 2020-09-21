@@ -1,0 +1,6 @@
+echo "This is first file";
+echo "Declaring 2 variables from user input";
+echo "Enter first number";
+read a;
+echo "Enter second number";
+read b;
