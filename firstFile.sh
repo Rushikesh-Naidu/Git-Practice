@@ -15,3 +15,5 @@ echo "Multiplication of 2 numbers";
 echo $(( a*b));
 
 echo "Edited on github.com"
+
+echo "This is edited on the server"
